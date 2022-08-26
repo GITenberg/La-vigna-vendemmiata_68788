@@ -1,0 +1,28 @@
+_repo: La-vigna-vendemmiata_68788
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beltramelli, Antonio
+    birthdate: 1874
+    deathdate: 1930
+    gutenberg_agent_id: '45566'
+    url: http://www.gutenberg.org/2009/agents/45566
+    wikipedia: https://it.wikipedia.org/wiki/Antonio_Beltramelli
+description: ''
+gutenberg_issued: '2022-08-19'
+identifiers:
+  gutenberg: '68788'
+language: it
+pgterms:marc905: 20150412144852beltramell
+pgterms:marc906: '1919'
+pgterms:marc907: it
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: Italy :Treves,1919.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La vigna vendemmiata
+url: http://www.gutenberg.org/ebooks/68788
